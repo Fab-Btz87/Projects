@@ -39,7 +39,7 @@ function TaskForm (props) {
         autoComplete='off'
       />
       <button className='task-button'>
-        Agrgar Tarea
+        Agregar Tarea
       </button>
     </form>  
   );
